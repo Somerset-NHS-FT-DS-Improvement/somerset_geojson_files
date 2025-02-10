@@ -5,5 +5,6 @@
  - Somerset Districts
  - Somerset Primary Care Networks
  - Somerset LSOA2011 boundaries
+   - Table: [geo].[lsoa2011_somerset] for all the 2011_lsoa codes in Somerset.
  - Somerset LSOA2021 boundaries
-   - Table: [ImprovementTeam].[dbo].[lsoa_somerset] for all the 2021_lsoa codes in somerset.
+   - Table: [dbo].[lsoa_somerset] for all the 2021_lsoa codes in Somerset.
